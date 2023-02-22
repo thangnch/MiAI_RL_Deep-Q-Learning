@@ -1,7 +1,7 @@
 # MiAI_RL_Deep-Q-Learning
 Demo of Deep Q-Learning in Reinforcement Learning
 
-Video link:  https://youtu.be/1ZidAtKpAz0
+Video link:  https://youtu.be/97gDXdA7kVc
 
 #MìAI <br>
 Fanpage: http://facebook.com/miaiblog<br>
